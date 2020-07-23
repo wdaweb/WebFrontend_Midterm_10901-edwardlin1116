@@ -31,4 +31,8 @@ Github Page ：https://edwardlin1116.github.io
 完整代碼上傳 Github ClassRoom 至指定 repository，並於說明欄位提供 個人 GitPage 之預覽連結（前項第 6 點動作）
 
 Github ClassRoom：https://github.com/wdaweb/WebFrontend_Midterm_10901-edwardlin1116<br>
+Github Page of Resume Page：https://edwardlin1116.github.io/<br>
+
+Github Page of Resume Page：https://edwardlin1116.github.io/login.html<br>
+
 泰山網頁空間：http://220.128.133.15/s1090207/resume-onepage/index.html
